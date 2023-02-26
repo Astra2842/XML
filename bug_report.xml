@@ -1,0 +1,12 @@
+<bug_report>
+  <ID>1</ID>
+  <title>test bag report</title>
+  <steps>
+    <st_1>click on site ....com</st_1>
+    <st_2>click on menu</st_2>
+    <st_3>click om punkt menu 'Markets</st_3>
+    </steps>
+  <actual_result>Status code is 404</actual_result>
+  <expected_result>Open Markets</expected_result>
+
+</bug_report>
